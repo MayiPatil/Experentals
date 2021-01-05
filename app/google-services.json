@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "578521534076",
+    "firebase_url": "https://experentals.firebaseio.com",
+    "project_id": "experentals",
+    "storage_bucket": "experentals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578521534076:android:9f1698d555eb2424",
+        "android_client_info": {
+          "package_name": "com.example.aditi.experentals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578521534076-6gtkrjav3e50fqevt7st10bl7ktcjlu5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aditi.experentals",
+            "certificate_hash": "a87120fe818158336e340b50ae6c41aa934500c6"
+          }
+        },
+        {
+          "client_id": "578521534076-ihd2hlr6vgth974g2r92o7fc67t03ee7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYp0BwSl4ffHsDzmxtX3lYLF3AAwWjicA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578521534076-ihd2hlr6vgth974g2r92o7fc67t03ee7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

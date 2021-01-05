@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Experentals</string>
+    <string name="wish">I wish to</string>
+    <string name="give_string">Give stuff on rent</string>
+    <string name="rent_string">Take stuff on rent</string>
+    <string name="splash_screen_text">Splash Screen!</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <string name="login_to_experentals">Login to Experentals</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="not_having_an_account_sign_up_now">Not registered? SIGN UP NOW</string>
+    <string name="SearchStuffpagetext">What do you wish to rent today?</string>
+
+</resources>
